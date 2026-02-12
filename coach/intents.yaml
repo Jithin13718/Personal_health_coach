@@ -1,0 +1,27 @@
+intents:
+  - motivate
+  - remind
+  - educate
+  - congratulate
+  - warn
+
+keywords:
+  motivate:
+    - tired
+    - lazy
+    - skip
+  remind:
+    - forgot
+    - remind
+    - later
+  educate:
+    - why
+    - benefit
+    - how
+  congratulate:
+    - achieved
+    - completed
+    - done
+  warn:
+    - low
+    - missed
